@@ -18,4 +18,4 @@ set the lid closed action for me automatically.
 
 ## Installation
 Simply extract the zip archive and start the application. If you want to autostart the application at windows startup, 
-you can create a shortcut to C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp and you're good to go!
+you can create a shortcut to *C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp* and you're good to go!
