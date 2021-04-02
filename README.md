@@ -1,6 +1,10 @@
-# CloseLidAutomate
-*Automate your lid closed action based on Monitor count*
+# Lid Action Automate
 
+*Automate your lid closed action based on Monitor count*  
+
+<p align="center">
+  <img src="https://github.com/akaSomix/CloseLidAutomate/blob/master/assets/LAA_icon.png" alt="Image" height="150" style="vertical-align:top; margin:80px;">
+</p>
 
 ## The Problem  
 I've recently started using an external monitor and when I do so, 
